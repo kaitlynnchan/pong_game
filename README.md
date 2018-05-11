@@ -2,4 +2,4 @@
 
 Simplified version of the Pong Game using the fisica world
 
-Practicing with intergrating fisica world into processing
+Practicing with integrating fisica world into processing
